@@ -1,0 +1,2 @@
+download ollama --> ollama pull mistral
+https://github.com/qdrant/qdrant/releases : downlaod the wind version and run it 

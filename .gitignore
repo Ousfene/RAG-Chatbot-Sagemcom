@@ -1,0 +1,42 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Model files
+local_models/
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.onnx
+*.onnx_data
+*.model
+gte-small/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+*.env
+
+# Node modules
+node_modules/
+
+# Build
+dist/
+build/
+
+# Internal company data
+data_prep/processed/
+data_prep/db/
+storage/
+
+# Executables
+*.exe
+
+# Misc
+*.duckdb

@@ -1,0 +1,10 @@
+pymupdf
+pdfplumber
+python-docx
+python-pptx
+openpyxl
+camelot-py[cv]
+pytesseract
+pillow
+pypdf
+duckdb

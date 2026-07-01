@@ -1,0 +1,8 @@
+llamma-index-core
+llamma-index-llms-ollama
+qdrant-client
+httpx
+torch
+transformers
+ragas[all]
+datasets
